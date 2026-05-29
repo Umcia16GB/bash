@@ -1,0 +1,2 @@
+# bash
+pdf-ai-project
